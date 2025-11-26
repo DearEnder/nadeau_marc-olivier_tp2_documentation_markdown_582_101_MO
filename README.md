@@ -53,7 +53,9 @@ Cette présentation a pour but de mettre de l'avant mes aspirations futures en t
 * Baccalauréat en musique
 * Intérêts musicaux diversifiés depuis mon plus jeune âge (Ex : J'écoute du rock classique comme de la musique House et EDM)
 * Désir d'ajouter une capacité musicale à ma capacité lyrique et, conséquemment, prendre le dessus sur ma dyspraxie, qui rend plus difficile l'apprentissage d'un instrument de musique
-![Capture d'écran de la page web présentant le baccalauréat en musique de l'Université de Montréal](./images/captureprogrammebaccalaureatmusiqueudem.png)
+![Capture d'écran de la page web présentant le baccalauréat en musique de l'Université de Montréal](https://github.com/user-attachments/assets/027d0ecf-ff13-4fb6-b0b5-e8d745823a84)
+
+
 
 # Conclusion
 
@@ -63,17 +65,19 @@ Cette présentation a pour but de mettre de l'avant mes aspirations futures en t
 
 # Moodboard
 
-![Arrière-plan beige et turquoise flou](./images/backgroundbeigeturquoise.jpg)
-![Arrière-plan turquoise avec des teintes de vert foncé et d'orange flou](./images/backgroundturquoisevertorange.jpg)
-![Arrière-plan bleu avec des traces blanchâtres flou](./images/backgroundbleuetblanc.jpg)
-![Arrière-plan bleu et vert avec des traces blanchâtres flou](./images/backgroundbleublancvert.jpg)
-![Petite bannière rouge](./images/Red-Banner-Download-PNG-Image.png)
-![Arrière-plan bleu et vert flou](./images/backgroundbleuvert.jpg)
+![Arrière-plan beige et turquoise flou](https://github.com/user-attachments/assets/b2f00af5-7a92-491a-aca5-805edde0fdbd)
+![Arrière-plan vert et orange flou](https://github.com/user-attachments/assets/628bdc97-0241-4b31-b546-02f15f9bb20d)
+![Arrière-plan bleu et blanc flou](https://github.com/user-attachments/assets/6dc0a0f9-b39c-49c1-8fef-efb984a5a673)
+![Arrière-plan bleu, blanc et vert flou](https://github.com/user-attachments/assets/e53dac00-bdb9-48a3-aacd-18eeee80371e)
+![Arrière-plan bleu et turquoise flou](https://github.com/user-attachments/assets/d95ff875-42ca-4911-8758-f6457d99f3ad)
+![Petite bannière rouge](https://github.com/user-attachments/assets/2faf51f2-2827-450a-afac-21de27afe0bd)
+
 
 # Carte mentale
 
-![Carte mentale comportant une partie créative et technique. Elle présente mes intérêts, mes forces et mes faiblesses en ce qui concerne chacune des deux catégories](.images/nadeau_marc_olivier_tp2_carte_mentale_582_101_MO.jpg)
+![Carte mentale comportant une partie créative et technique. Elle présente mes intérêts, mes forces et mes faiblesses en ce qui concerne chacune des deux catégories](https://github.com/user-attachments/assets/bbb18b64-a0ed-4149-ac99-df072d769449)
+
 
 # Diagramme de flux
 
-![Diagramme de flux expliquant mes perspectives pour le futur](.images/nadeau_marc_olivier_tp2_carte_mentale_582_101_MO.jpg)
+![Diagramme de flux expliquant mes perspectives pour le futur](https://github.com/user-attachments/assets/d5f6aa93-40cb-4de4-8a8a-f46c5f31bf49)
